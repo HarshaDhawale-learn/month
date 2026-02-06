@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    background-color: white;
+    width: 750px;
+}
+
+header {
+    background-color: white;
+    color: black;
+
+}
+
+header img {
+    width: 150px;
+    height: 180px;
+}
+
+h1 {
+    background-color: pink;
+}
+
+h2 {
+    background-color: pink;
+}
+
+section {
+    background-color: white;
+    color:black;
+}
+
+h3 {
+    background-color: pink;
+    color: black;
+}
+
+footer {
+    background-color: white;
+    color: black;
+}
